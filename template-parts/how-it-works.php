@@ -1,0 +1,1 @@
+<h1 class="text-center" style="padding-top: 300px;padding-bottom:300px;">HOW IT WORKS SECTION</h1>

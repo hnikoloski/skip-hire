@@ -1,0 +1,15 @@
+@import "./abstracts/helpers/helpers.scss";
+@import "./variables";
+@import "./base/reset";
+@import "./base/typography";
+@import "./abstracts/helpers/animations.scss";
+@import "./abstracts/helpers/typography.scss";
+@import "./layout/footer";
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/benefits";
+@import "./layout/cta";
+
+#page {
+  overflow-x: hidden;
+}
